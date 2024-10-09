@@ -1,5 +1,6 @@
 # Unity video compression (datamoshing) post-processing | HDRP
 
+Video compression ([datamoshing](https://en.wikipedia.org/wiki/Compression_artifact#Artistic_use)) post-processing for reproducing low-bitrate video artifacts. Compatible with HDRP.
 
 ## How to use:
 Go to Project Settings > Graphics > HDRP Global Settings > Custom Post Process Order. Add it under After Post Process.
